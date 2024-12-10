@@ -1,0 +1,169 @@
+.desktop-3-child {
+    position: absolute;
+    top: 190px;
+    left: 0px;
+    background-color: #f8dd79;
+    width: 300px;
+    height: 100%;
+}
+.desktop-3-item {
+    position: absolute;
+    top: 128px;
+    left: 0px;
+    background-color: #182b5c;
+    width: 1980px;
+    height: 62px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #fffefe;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 210.1px;
+    height: 44.9px;
+}
+.cari-course {
+    position: absolute;
+    top: 7.33px;
+    left: 420px;
+    font-weight: 300;
+    display: inline-block;
+    object-fit: cover;
+    width: 196.3px;
+    height: 41.3px;
+}
+.button{
+    position: absolute;
+    top: 10px;
+    left: 625px;
+    font-weight: 300;
+    display: inline-block;
+    object-fit: cover;
+    width: 50px;
+    height: 30px;
+}
+.gatau {
+    position: absolute;
+    top: 7.33px;
+    left: 8.89px;
+    width: 21.8px;
+    height: 26.6px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 131.09px;
+    left: 1201.48px;
+    width: 238.5px;
+    height: 48.6px;
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+.vector-icon {
+    width: 37.6px;
+    position: relative;
+    height: 35.2px;
+}
+.home {
+    position: relative;
+}
+.vector-parent {
+    position: absolute;
+    top: 221px;
+    left: 24px;
+    width: 222px;
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 17px;
+}
+.vector-icon1 {
+    width: 38px;
+    position: relative;
+    height: 42px;
+}
+.vector-group {
+    position: absolute;
+    top: 306px;
+    left: 24px;
+    width: 300px;
+    height: 39px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 17px;
+}
+.matematika {
+    width: 65px;
+    position: relative;
+    height: 74px;
+    object-fit: cover;
+}
+.guest1 {
+    width: 41px;
+    position: relative;
+    height: 46px;
+    object-fit: cover;
+}
+.matematika-div {
+    position: absolute;
+    top: 208px;
+    left: 350px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 100px;
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 11px;
+    gap: 22px;
+    font-size: 23px;
+    font-family: Poppins;
+}
+.guest2 {
+    position: absolute;
+    top: 15px;
+    left: 95%;
+    width: 49px;
+    height: 57px;
+    object-fit: cover;
+}
+.les-2-icon {
+    position: absolute;
+    top: -20px;
+    left: 45%;
+    right: 50%;
+    width: 263px;
+    height: 193px;
+    object-fit: cover;
+}
+.profile {
+    position: absolute;
+    top: 80px;
+    left: 95%;
+    font-size: 17px;
+    font-family: Inter;
+    display: inline-block;
+    width: 62px;
+    height: 22px;
+}
+.desktop-3 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: DynaPuff;
+}

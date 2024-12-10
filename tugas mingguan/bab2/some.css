@@ -1,0 +1,292 @@
+body {
+    background-color: #7194c2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+ .overlap-wrapper {
+    background-color: #7194c2;
+    width: 1450px;
+    height: 1024px;
+}
+
+ .overlap {
+    position: relative;
+    width: 1500px;
+    height: 700px;
+    background-color: #ffffff;
+    border-radius: 10px 10px 120px 120px;
+}
+
+.frame {
+    border: none;
+    left: 77px;
+    background-color: #7194c2;
+    display: flex;
+    width: 164px;
+    height: 38px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 490px;
+    border-radius: 12px;
+}
+
+ .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -8px;
+    margin-bottom: -6px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+ .div-wrapper {
+    left: 268px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #7194c2;
+    display: flex;
+    width: 164px;
+    height: 38px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 490px;
+    border-radius: 12px;
+}
+
+ .div {
+    position: relative;
+    width: fit-content;
+    margin-top: -8.5px;
+    margin-bottom: -4.5px;
+    -webkit-text-stroke: 1px #7194c2;
+    font-family: "Nunito-Black", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+ .add-apps-perspective {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 217px;
+    left: 750px;
+    object-fit: cover;
+}
+
+ .overlap-group {
+    position: absolute;
+    width: 212px;
+    height: 200px;
+    top: 0;
+    left: 66px;
+}
+
+ .si {
+    position: absolute;
+    width: 212px;
+    top: 163px;
+    left: 0;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20.5px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.span {
+    font-weight: 300;
+    color: #000000;
+}
+
+.text-wrapper-3 {
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #7194c2;
+}
+
+.les {
+    position: absolute;
+    width: 191px;
+    height: 164px;
+    top: 0;
+    left: 11px;
+    object-fit: cover;
+}
+
+.sesuaikan-kebutuhan {
+    position: absolute;
+    width: 426px;
+    top: 230px;
+    left: 68px;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.text-wrapper-4 {
+    color: #000000bd;
+}
+
+ .text-wrapper-5 {
+    color: #f8dd79;
+}
+
+.overlap-2 {
+    position: absolute;
+    width: 832px;
+    height: 64px;
+    top: 22px;
+    left: 388px;
+    border-radius: 12px;
+}
+
+.navbar {
+    display: flex;
+    width: 900px;
+    height: 64px;
+    align-items: center;
+    justify-content: center;
+    gap: 20%;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: -15px 20px 24px #4edbe740;
+    margin-right: 50px;
+}
+
+.navbar .nav-links {
+    display: flex; /* Menggunakan Flexbox untuk menyusun item secara horizontal */
+    list-style-type: none; /* Menghilangkan bullet */
+    padding: 0px;
+    margin-right:0px;
+    gap: 40px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding: 10px 15px;
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    transform: scale(1.2); 
+}
+
+.group {
+    position: relative;
+    width: 170px;
+    height: 28px;
+}
+
+.overlap-group-2 {
+    position: relative;
+    width: 168px;
+    height: 28px;
+}
+
+.text-wrapper-10 {
+    position: absolute;
+    width: 138px;
+    top: 4px;
+    left: 30px;
+    font-family: "Open Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+ .gatau-removebg {
+    position: absolute;
+    width: 16px;
+    height: 18px;
+    top: 23px;
+    left: 800px;
+}
+
+ .text-wrapper-10 .search-btn {
+    position: absolute;
+    left: 100%;
+ }
+
+.text-wrapper {
+    text-decoration: none; 
+    color: white;
+    padding: 10px 20px;
+    background-color: #6c8dc4; 
+    border-radius: 20px; 
+    font-weight: bold; 
+    display: inline-block;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.text-wrapper:hover {
+    background-color: #4a6fa1; 
+    transform: scale(1.05); 
+}
+
+.div {
+    text-decoration: none; 
+    color: #333; 
+    padding: 10px 20px;
+    border: 2px solid #ffffff; 
+    border-radius: 20px; 
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.div:hover {
+    background-color: #ffffff;
+    color: white; 
+    transform: scale(1.05); 
+}
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#content {
+    display: none;
+}
+
